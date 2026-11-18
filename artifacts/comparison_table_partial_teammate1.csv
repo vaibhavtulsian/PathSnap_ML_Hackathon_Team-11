@@ -1,0 +1,2 @@
+model,family,cv_macro_f1,cv_top1_acc,cv_log_loss,cv_fold_std_top1,train_time_s,student_macro_f1,student_top1_acc,student_log_loss,route_continuity,inference_ms_per_row
+RandomForest,Ensemble (bagging),0.8926043431154499,0.7827265509046516,0.08816115714787462,0.11803359579669521,674.4913947582245,0.8970477789958957,0.8544363256784969,0.07983988728160836,0.9463989472790312,0.001917744162734916

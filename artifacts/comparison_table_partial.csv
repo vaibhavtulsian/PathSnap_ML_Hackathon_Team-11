@@ -1,0 +1,2 @@
+model,family,cv_macro_f1,cv_top1_acc,cv_log_loss,cv_fold_std_top1,train_time_s,student_macro_f1,student_top1_acc,student_log_loss,route_continuity,inference_ms_per_row
+LogisticRegression,Linear/Probabilistic,0.7612925409546231,0.770964447758798,0.21604345122119514,0.11482870924369208,19.68041157722473,0.7790006470439792,0.8445198329853862,0.1804210292913614,0.942496971876475,7.642142688177338e-05

@@ -1,0 +1,2 @@
+model,k,accuracy,precision,recall,f1_score,roc_auc
+KNN,5,0.968833,0.791774,0.743961,0.767123,0.947784
