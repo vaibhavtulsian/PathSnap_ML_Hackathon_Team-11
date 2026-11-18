@@ -1,3 +1,0 @@
-partition,trip_count,track_total_rows,track_min_rows_per_trip,track_median_rows_per_trip,track_max_rows_per_trip,track_total_size_MB,nodes_total_rows,nodes_min_rows_per_trip,nodes_median_rows_per_trip,nodes_max_rows_per_trip,nodes_total_size_MB,arcs_total_rows,arcs_min_rows_per_trip,arcs_median_rows_per_trip,arcs_max_rows_per_trip,arcs_total_size_MB,route_total_rows,route_min_rows_per_trip,route_median_rows_per_trip,route_max_rows_per_trip,route_total_size_MB
-student_test,10,19160,262,1420.0,3958,0.597,90689,1770,6596.5,26635,1.738,185041,3577,13145.0,56027,1.814,3477,95,250.0,1323,0.017
-train,80,208417,361,1529.0,19313,6.554,1933485,299,9608.0,155003,36.651,3876904,649,19526.5,307392,42.217,31336,59,280.0,2266,0.158
